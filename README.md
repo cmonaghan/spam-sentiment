@@ -13,3 +13,7 @@ We must use python 3.12 as `torch` is not yet supported on 3.13. You can use pye
 ## Adding new requirements
 
     pip freeze > requirements.txt
+
+## Run the training
+
+    python main.py
